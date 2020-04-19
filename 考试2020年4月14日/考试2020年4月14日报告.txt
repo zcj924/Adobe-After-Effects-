@@ -1,0 +1,31 @@
+创建的报告: 
+	2020/4/14	10:14:37
+
+项目名: 考试2020年4月14日.aep
+
+将源文件收集到: 
+	C:\Users\zcj92\Desktop\考试2020年4月14日
+
+收集的源文件: 对于所有合成
+
+收集的合成: 
+	考试_2020年4月14日
+	
+收集的文件数: 5
+
+收集的文件大小: 2.6 MB
+
+收集的源文件: 
+	C:\Users\zcj92\Documents\WeChat Files\zcj4412\FileStorage\File\2020-04\视频特效 - 考试内容\案例素材\墨迹 大.png
+	C:\Users\zcj92\Documents\WeChat Files\zcj4412\FileStorage\File\2020-04\视频特效 - 考试内容\案例素材\墨迹2.png
+	C:\Users\zcj92\Documents\WeChat Files\zcj4412\FileStorage\File\2020-04\视频特效 - 考试内容\案例素材\水墨山水.png
+	C:\Users\zcj92\Documents\WeChat Files\zcj4412\FileStorage\File\2020-04\视频特效 - 考试内容\案例素材\水墨房屋.png
+	C:\Users\zcj92\Documents\WeChat Files\zcj4412\FileStorage\File\2020-04\视频特效 - 考试内容\案例素材\水墨梅花.png
+	
+渲染增效工具:
+	经典 3D
+	
+图层: 文本图层
+	外部依存关系: 
+		字体系列:“Source Han Sans CN”，字体样式:“ExtraLight”
+

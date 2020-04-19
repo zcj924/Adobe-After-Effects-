@@ -1,0 +1,25 @@
+创建的报告: 
+	2020/3/30	11:44:09
+
+项目名: 摄像机.aep
+
+将源文件收集到: 
+	C:\Users\zcj92\Desktop\摄像机
+
+收集的源文件: 对于所有合成
+
+收集的合成: 
+	合成 1
+	
+收集的文件数: 3
+
+收集的文件大小: 1.6 MB
+
+收集的源文件: 
+	C:\Users\zcj92\Desktop\69689533_1p0.jpg
+	C:\Users\zcj92\Desktop\74791171_p0.png
+	C:\Users\zcj92\Downloads\c5b80864240741e7be8b5a59b142cf26.png
+	
+渲染增效工具:
+	经典 3D
+	
